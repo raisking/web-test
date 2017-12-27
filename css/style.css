@@ -10,3 +10,15 @@
     border: 1px solid red;
     height: 15vh;
 }
+
+.flexbox{
+    height: 100%;
+    width: 80%;
+    display: flex;
+}
+.item{
+    border: 1px solid #ccc;
+    height: 8   0%;
+    width: 30%;
+    margin: 10px;
+}
