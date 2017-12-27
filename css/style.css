@@ -1,13 +1,13 @@
 #header{
-    border: 1px solid red;
+    border: 1px solid #ccc;
     height: 15vh;
 }
 #body{
-    border: 1px solid red;
+    border: 1px solid #ccc;
     height: 70vh;
 }
 #footer{
-    border: 1px solid red;
+    border: 1px solid #ccc;
     height: 15vh;
 }
 
@@ -21,4 +21,16 @@
     height: 8   0%;
     width: 30%;
     margin: 10px;
+}
+.flexbox-div{
+    height: 100%;
+    width: 80%;
+    display: flex;
+}
+.item-div{
+    border: 1px solid #ccc;
+    height: 60%;
+    width: 32%;
+    margin: 10px;
+    border-radius: 10px;
 }
