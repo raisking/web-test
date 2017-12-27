@@ -1,0 +1,12 @@
+#header{
+    border: 1px solid red;
+    height: 15vh;
+}
+#body{
+    border: 1px solid red;
+    height: 70vh;
+}
+#footer{
+    border: 1px solid red;
+    height: 15vh;
+}
