@@ -1,16 +1,22 @@
+body{
+    background: #ccc;
+}
 #header{
     border: 1px solid #ccc;
     height: 15vh;
+    background: #fff;
 }
 #body{
     border: 1px solid #ccc;
     height: 70vh;
     margin-top: 10px;
     margin-bottom: 10px;
+    background: #fff;
 }
 #footer{
     border: 1px solid #ccc;
     height: 15vh;
+    background: #fff;
 }
 
 .flexbox{
@@ -29,14 +35,16 @@
     width: 100%;
     display: flex;
     /* border: 1px solid #ccc;  */
+
 }
 .item-div{
     border: 1px solid #ccc;
-    height: 60%;
+    height: 150px;
     width: 32%;
     margin: 10px;
     border-radius: 10px;
     color: rgb(29, 101, 150);
+    box-shadow: 2px 2px 2px #ccc;
 }
 .heading{
     color: rgb(20, 172, 131);
