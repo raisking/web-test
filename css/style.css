@@ -53,3 +53,8 @@ body{
     width: 95%;
     margin: 10px;
 }
+#footer-div{
+    border: 1px solid #ccc;
+    width: 95%;
+    margin: 10px;
+}
